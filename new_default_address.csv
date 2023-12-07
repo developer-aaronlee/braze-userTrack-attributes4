@@ -1,0 +1,11 @@
+external_id,default_address
+apitest1@yopmail.com,"{""country"": ""United States"", ""state"": ""Texas"", ""city"": ""San Marcos"", ""address_line1"": ""4300 Lime Kiln Rd"", ""address_line2"": """", ""zip_code"": ""78666""}"
+apitest2@yopmail.com,"{""country"": ""United States"", ""state"": ""Michigan"", ""city"": ""Rochester Hills"", ""address_line1"": ""2781 Hartwick Drive"", ""address_line2"": ""Room 5"", ""zip_code"": ""48307""}"
+apitest3@yopmail.com,"{""country"": ""United States"", ""state"": ""New York"", ""city"": ""Queens"", ""address_line1"": ""3615 30th Street"", ""address_line2"": """", ""zip_code"": ""11106""}"
+apitest4@yopmail.com,"{""country"": """", ""state"": ""Puerto Rico"", ""city"": ""Carolina"", ""address_line1"": ""Villa Carolina 68-16 Calle 55"", ""address_line2"": """", ""zip_code"": ""00985""}"
+apitest5@yopmail.com,"{""country"": ""United States"", ""state"": ""New York"", ""city"": ""New York"", ""address_line1"": ""420 East 55th Street"", ""address_line2"": ""2J"", ""zip_code"": ""10022""}"
+apitest6@yopmail.com,"{""country"": ""United States"", ""state"": ""Washington"", ""city"": ""Seattle"", ""address_line1"": ""1151 North 91st Street"", ""address_line2"": """", ""zip_code"": ""98103""}"
+apitest7@yopmail.com,"{""country"": ""United States"", ""state"": """", ""city"": ""Roy"", ""address_line1"": ""5424 S 4225 W"", ""address_line2"": """", ""zip_code"": ""84067""}"
+apitest8@yopmail.com,"{""country"": ""United States"", ""state"": ""California"", ""city"": ""San Jose"", ""address_line1"": ""308 Ellmar Oaks Loop"", ""address_line2"": """", ""zip_code"": """"}"
+apitest9@yopmail.com,"{""country"": ""United States"", ""state"": ""California"", ""city"": ""San Jose"", ""address_line1"": """", ""address_line2"": """", ""zip_code"": ""95138""}"
+apitest10@yopmail.com,"{""country"": ""United States"", ""state"": ""California"", ""city"": ""Los Angeles"", ""address_line1"": ""2017 3rd Ave"", ""address_line2"": """", ""zip_code"": ""90018""}"
